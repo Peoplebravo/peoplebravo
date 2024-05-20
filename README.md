@@ -1,4 +1,4 @@
-# peoplebravo
+# Peoplebravo
 1. Application Dictionary
 2. General Setup
 3. Master Data Management
